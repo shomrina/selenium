@@ -7,6 +7,16 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+*.idea/
+*.iml
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+# uiAutotest-selenium-allure/.idea/misc.xml
+# uiAutotest-selenium-allure/.idea/compiler.xml
+# uiAutotest-selenium-allure/.idea/encodings.xml
+# uiAutotest-selenium-allure/.idea/libraries/Maven__junit_junit_4_11.xml
+# uiAutotest-selenium-allure/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+# uiAutotest-selenium-allure/.idea/modules.xml
+# uiAutotest-selenium-allure/.idea/workspace.xml
+# uiAutotest-selenium-allure/uiAutotest-selenium-allure.iml
